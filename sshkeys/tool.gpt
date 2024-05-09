@@ -24,8 +24,14 @@ Args: fingerprint: the fingerprint for the sshkey
 
 Use this tool to get the Digital Ocen SSH Key by Fingerprint
 ---
-Name: sshkeys_modify
-Description: Use this tool to modify SSH keys
-Export: sshKeys_create from ../openapi.yaml, sshKeys_update from ../openapi.yaml, sshKeys_delete from ../openapi.yaml, sshKeys_delete_by_id from ../openapi.yaml, ssh_keys_delete_by_fingerprint from ../openapi.yaml
+Name: sshkeys_create_update
+Description: Use this tool to create or modify SSH keys
+Export: sshKeys_create from ../openapi.yaml, sshKeys_update from ../openapi.yaml
 
-Use this tool to modify DigitalOcean SSH keys
+Use the tools available to modify or create DigitalOcean SSH keys
+---
+Name: sshkeys_delete
+Description: Use this tool to Delete SSH keys
+Export: sshKeys_delete from ../openapi.yaml, sshKeys_delete_by_id from ../openapi.yaml, ssh_keys_delete_by_fingerprint from ../openapi.yaml
+
+Use the tools available to delete DigitalOcean SSH keys
