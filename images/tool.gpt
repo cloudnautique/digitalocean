@@ -1,0 +1,5 @@
+Name: images
+Description: Use the tool to interact with digital ocean images
+Export: images_list from ../openapi.yaml, images_create_custom from ../openapi.yaml, images_get from ../openapi.yaml, images_update from ../openapi.yaml, images_delete from ../openapi.yaml, imageActions_list from ../openapi.yaml, imageActions_post from ../openapi.yaml, imageActions_get from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean images

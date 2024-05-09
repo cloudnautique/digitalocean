@@ -1,0 +1,5 @@
+Name: projects
+Description: Use the tool to interact with digital ocean projects
+Export: projects_list from ../openapi.yaml, projects_create from ../openapi.yaml, projects_get_default from ../openapi.yaml, projects_update_default from ../openapi.yaml, projects_patch_default from ../openapi.yaml, projects_get from ../openapi.yaml, projects_update from ../openapi.yaml, projects_patch from ../openapi.yaml, projects_delete from ../openapi.yaml, projects_list_resources from ../openapi.yaml, projects_assign_resources from ../openapi.yaml, projects_list_resources_default from ../openapi.yaml, projects_assign_resources_default from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean projects

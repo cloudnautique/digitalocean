@@ -1,0 +1,5 @@
+Name: snapshots
+Description: Use the tool to interact with digital ocean snapshots
+Export: snapshots_list from ../openapi.yaml, snapshots_get from ../openapi.yaml, snapshots_delete from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean snapshots

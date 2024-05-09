@@ -1,0 +1,5 @@
+Name: invoices
+Description: Use the tool to interact with digital ocean invoices
+Export: invoices_list from ../openapi.yaml, invoices_get_byUUID from ../openapi.yaml, invoices_get_csvByUUID from ../openapi.yaml, invoices_get_pdfByUUID from ../openapi.yaml, invoices_get_summaryByUUID from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean invoices

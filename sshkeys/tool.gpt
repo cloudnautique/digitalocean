@@ -1,0 +1,31 @@
+Name: sshkeys_list
+Description: Use the tool to view digital ocean SSH keys
+Tools: sshKeys_list from ../openapi.yaml
+
+Use this tool to view DigitalOcean SSH keys
+---
+Name: sshkeys_get
+Description: Use the tool to view digital ocean SSH keys
+Tools: sshKeys_get from ../openapi.yaml
+
+Get the DigitalOcean SSH key
+---
+Name: sshkeys_get_by_id
+Description: Use the tool to view digital ocean SSH keys
+Tools: sshKeys_get_by_id from ../openapi.yaml
+Args: sshkey_id: the ID to use to fetch the SSHKey
+
+Use this tool to get the DigitalOcean SSH key by the passed in ID
+---
+Name: sshkeys_get_by_finger_print
+Description: Use the tool to view digital ocean SSH keys
+Tools: sshKeys_get_by_fingerprint from ../openapi.yaml
+Args: fingerprint: the fingerprint for the sshkey
+
+Use this tool to get the Digital Ocen SSH Key by Fingerprint
+---
+Name: sshkeys_modify
+Description: Use this tool to modify SSH keys
+Export: sshKeys_create from ../openapi.yaml, sshKeys_update from ../openapi.yaml, sshKeys_delete from ../openapi.yaml, sshKeys_delete_by_id from ../openapi.yaml, ssh_keys_delete_by_fingerprint from ../openapi.yaml
+
+Use this tool to modify DigitalOcean SSH keys

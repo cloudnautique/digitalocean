@@ -1,0 +1,5 @@
+Name: databases
+Description: Use the tool to interact with digital ocean databases
+Export: databases_list from ../openapi.yaml, databases_add from ../openapi.yaml, databases_get from ../openapi.yaml, databases_delete from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean databases

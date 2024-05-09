@@ -1,0 +1,5 @@
+Name: apps
+Description: Use the tool to interact with digital ocean apps
+Export: apps_list from ../openapi.yaml, apps_create from ../openapi.yaml, apps_delete from ../openapi.yaml, apps_get from ../openapi.yaml, apps_update from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean apps

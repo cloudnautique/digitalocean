@@ -1,0 +1,5 @@
+Name: oneClicks
+Description: Use the tool to interact with digital ocean one clicks
+Export: oneClicks_list from ../openapi.yaml, oneClicks_install_kubernetes from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean one clicks

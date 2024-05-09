@@ -1,0 +1,5 @@
+Name: reservedIPs
+Description: Use the tool to interact with digital ocean reserved IPs
+Export: reservedIPs_list from ../openapi.yaml, reservedIPs_create from ../openapi.yaml, reservedIPs_get from ../openapi.yaml, reservedIPs_delete from ../openapi.yaml, reservedIPsActions_list from ../openapi.yaml, reservedIPsActions_post from ../openapi.yaml, reservedIPsActions_get from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean reserved IPs

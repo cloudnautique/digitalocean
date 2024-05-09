@@ -1,0 +1,5 @@
+Name: cdn
+Description: Use the tool to interact with digital ocean CDNs
+Export: cdn_list_endpoints from ../openapi.yaml, cdn_create_endpoint from ../openapi.yaml, cdn_get_endpoint from ../openapi.yaml, cdn_update_endpoints from ../openapi.yaml, cdn_delete_endpoint from ../openapi.yaml, cdn_purge_cache from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean CDNs

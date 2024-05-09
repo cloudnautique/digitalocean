@@ -1,0 +1,5 @@
+Name: volumes
+Description: Use the tool to interact with digital ocean volumes
+Export: volumes_list from ../openapi.yaml, volumes_create from ../openapi.yaml, volumes_delete_byName from ../openapi.yaml, volumeActions_post from ../openapi.yaml, volumeSnapshots_get_byId from ../openapi.yaml, volumeSnapshots_delete_byId from ../openapi.yaml, volumes_get from ../openapi.yaml, volumes_delete from ../openapi.yaml, volumeActions_list from ../openapi.yaml, volumeActions_post_byId from ../openapi.yaml, volumeActions_get from ../openapi.yaml, volumeSnapshots_list from ../openapi.yaml, volumeSnapshots_create from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean volumes

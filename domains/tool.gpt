@@ -1,0 +1,5 @@
+Name: domains
+Description: Use the tool to interact with digital ocean domains
+Export: domains_list from ../openapi.yaml, domains_create from ../openapi.yaml, domains_get from ../openapi.yaml, domains_delete from ../openapi.yaml, domains_list_records from ../openapi.yaml, domains_create_record from ../openapi.yaml, domains_get_record from ../openapi.yaml, domains_patch_record from ../openapi.yaml, domains_update_record from ../openapi.yaml, domains_delete_record from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean domains

@@ -1,0 +1,5 @@
+Name: functions
+Description: Use the tool to interact with digital ocean functions
+Export: functions_list_namespaces from ../openapi.yaml, functions_create_namespace from ../openapi.yaml, functions_get_namespace from ../openapi.yaml, functions_delete_namespace from ../openapi.yaml, functions_list_triggers from ../openapi.yaml, functions_create_trigger from ../openapi.yaml, functions_get_trigger from ../openapi.yaml, functions_update_trigger from ../openapi.yaml, functions_delete_trigger from ../openapi.yaml
+
+Use this tool to interact with DigitalOcean functions
