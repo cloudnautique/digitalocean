@@ -1,5 +1,2 @@
 Name: regions
-Description: Use the tool to interact with digital ocean regions
 Export: regions_list from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean regions

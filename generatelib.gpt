@@ -1,0 +1,15 @@
+tools: sys.exec?
+
+Get all of the operationIds from the ./openapi.yaml file. It is to large to read all at once.
+they are in the format of <object>_<actions>
+for each <object> (all lowercase) create a new directory ./<object> if one does not exist.
+
+In each directory ./v2/<object>/ create a new file tool.gpt following this exact format:
+
+```
+Name: <object>s
+Export: <operationId> from ../../openapi.yaml, <operationId> from ../../openapi.yaml
+```
+
+Where the Export line is a comma seperated list of all the operationIds for an <object>
+

@@ -1,5 +1,2 @@
-Name: balance
-Description: Use the tool to interact with digital ocean balances
+Name: balances
 Export: balance_get from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean balances

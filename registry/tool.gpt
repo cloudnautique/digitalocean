@@ -1,5 +1,2 @@
 Name: registry
-Description: Use the tool to interact with digital ocean registries
 Export: registry_get from ../openapi.yaml, registry_create from ../openapi.yaml, registry_delete from ../openapi.yaml, registry_get_subscription from ../openapi.yaml, registry_update_subscription from ../openapi.yaml, registry_get_dockerCredentials from ../openapi.yaml, registry_validate_name from ../openapi.yaml, registry_list_repositories from ../openapi.yaml, registry_list_repositoriesV2 from ../openapi.yaml, registry_list_repositoryTags from ../openapi.yaml, registry_delete_repositoryTag from ../openapi.yaml, registry_list_repositoryManifests from ../openapi.yaml, registry_delete_repositoryManifest from ../openapi.yaml, registry_run_garbageCollection from ../openapi.yaml, registry_get_garbageCollection from ../openapi.yaml, registry_list_garbageCollections from ../openapi.yaml, registry_update_garbageCollection from ../openapi.yaml, registry_get_options from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean registries

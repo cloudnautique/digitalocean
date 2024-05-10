@@ -1,5 +1,2 @@
-Name: billingHistory
-Description: Use the tool to interact with digital ocean billing histories
+Name: billingHistories
 Export: billingHistory_list from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean billing histories

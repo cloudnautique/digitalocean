@@ -1,5 +1,2 @@
 Name: vpcs
-Description: Use the tool to interact with digital ocean VPCs
 Export: vpcs_list from ../openapi.yaml, vpcs_create from ../openapi.yaml, vpcs_get from ../openapi.yaml, vpcs_update from ../openapi.yaml, vpcs_patch from ../openapi.yaml, vpcs_delete from ../openapi.yaml, vpcs_list_members from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean VPCs

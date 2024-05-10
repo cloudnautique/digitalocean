@@ -1,5 +1,2 @@
 Name: loadBalancers
-Description: Use the tool to interact with digital ocean load balancers
 Export: loadBalancers_create from ../openapi.yaml, loadBalancers_list from ../openapi.yaml, loadBalancers_get from ../openapi.yaml, loadBalancers_update from ../openapi.yaml, loadBalancers_delete from ../openapi.yaml, loadBalancers_add_droplets from ../openapi.yaml, loadBalancers_remove_droplets from ../openapi.yaml, loadBalancers_add_forwardingRules from ../openapi.yaml, loadBalancers_remove_forwardingRules from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean load balancers

@@ -1,0 +1,19 @@
+tools: sys.exec?
+
+Do not use grep -E it is not supported on this system.
+Get all of the operationIds from the ./openapi.yaml file. It is to large to read all at once.
+they are in the format of <object>_<actions>
+
+for each <object> check if there is a directory ./<object> all lowercase. 
+If there is, read the tool.gpt file, and update it to be in the following format.
+Treat multiple `Name:` lines in the tool.gpt file like they were each a discrete tool.gpt file.
+
+```
+Name: <object>s
+Export: <operationId> from ../openapi.yaml, <operationId> from ../openapi.yaml
+```
+
+Where the Export line is a comma seperated list of all the operationIds for an <object>
+
+If there is an <object> that doesn't have a directory, create it and populate with a tool.gpt file.
+
