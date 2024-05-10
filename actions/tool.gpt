@@ -1,5 +1,2 @@
 Name: actions
-Description: Use the tool to interact with digital ocean actions
 Export: actions_list from ../openapi.yaml, actions_get from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean actions

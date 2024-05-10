@@ -1,5 +1,2 @@
 Name: certificates
-Description: Use the tool to interact with digital ocean certificates
 Export: certificates_list from ../openapi.yaml, certificates_create from ../openapi.yaml, certificates_get from ../openapi.yaml, certificates_delete from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean certificates

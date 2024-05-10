@@ -1,5 +1,2 @@
 Name: tags
-Description: Use the tool to interact with digital ocean tags
 Export: tags_list from ../openapi.yaml, tags_create from ../openapi.yaml, tags_get from ../openapi.yaml, tags_delete from ../openapi.yaml, tags_assign_resources from ../openapi.yaml, tags_unassign_resources from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean tags

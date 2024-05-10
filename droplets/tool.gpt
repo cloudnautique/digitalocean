@@ -1,5 +1,2 @@
 Name: droplets
-Description: Use the tool to interact with digital ocean droplets
 Export: droplets_list from ../openapi.yaml, droplets_create from ../openapi.yaml, droplets_destroy_byTag from ../openapi.yaml, droplets_get from ../openapi.yaml, droplets_destroy from ../openapi.yaml, droplets_list_backups from ../openapi.yaml, droplets_list_snapshots from ../openapi.yaml, dropletActions_list from ../openapi.yaml, dropletActions_post from ../openapi.yaml, dropletActions_post_byTag from ../openapi.yaml, dropletActions_get from ../openapi.yaml, droplets_list_kernels from ../openapi.yaml, droplets_list_firewalls from ../openapi.yaml, droplets_list_neighbors from ../openapi.yaml, droplets_list_associatedResources from ../openapi.yaml, droplets_destroy_withAssociatedResourcesSelective from ../openapi.yaml, droplets_destroy_withAssociatedResourcesDangerous from ../openapi.yaml, droplets_get_DestroyAssociatedResourcesStatus from ../openapi.yaml, droplets_destroy_retryWithAssociatedResources from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean droplets

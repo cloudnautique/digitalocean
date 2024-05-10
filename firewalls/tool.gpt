@@ -1,5 +1,2 @@
 Name: firewalls
-Description: Use the tool to interact with digital ocean firewalls
 Export: firewalls_list from ../openapi.yaml, firewalls_create from ../openapi.yaml, firewalls_get from ../openapi.yaml, firewalls_update from ../openapi.yaml, firewalls_delete from ../openapi.yaml, firewalls_assign_droplets from ../openapi.yaml, firewalls_delete_droplets from ../openapi.yaml, firewalls_add_tags from ../openapi.yaml, firewalls_delete_tags from ../openapi.yaml, firewalls_add_rules from ../openapi.yaml, firewalls_delete_rules from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean firewalls

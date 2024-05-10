@@ -1,5 +1,2 @@
 Name: floatingIPs
-Description: Use the tool to interact with digital ocean floating IPs
 Export: floatingIPs_list from ../openapi.yaml, floatingIPs_create from ../openapi.yaml, floatingIPs_get from ../openapi.yaml, floatingIPs_delete from ../openapi.yaml, floatingIPsAction_list from ../openapi.yaml, floatingIPsAction_post from ../openapi.yaml, floatingIPsAction_get from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean floating IPs

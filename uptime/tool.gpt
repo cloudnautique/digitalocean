@@ -1,5 +1,2 @@
 Name: uptime
-Description: Use the tool to interact with digital ocean uptime
 Export: uptime_list_checks from ../openapi.yaml, uptime_create_check from ../openapi.yaml, uptime_get_check from ../openapi.yaml, uptime_update_check from ../openapi.yaml, uptime_delete_check from ../openapi.yaml, uptime_get_checkState from ../openapi.yaml, uptime_list_alerts from ../openapi.yaml, uptime_create_alert from ../openapi.yaml, uptime_get_alert from ../openapi.yaml, uptime_update_alert from ../openapi.yaml, uptime_delete_alert from ../openapi.yaml
-
-Use this tool to interact with DigitalOcean uptime
